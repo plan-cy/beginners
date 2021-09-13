@@ -6,11 +6,18 @@
 
 ---
 
+0. [Common Sense](#Common-Sense)
 1. [Web](#Web)
 2. [DevOps](#DevOps)
 3. [ML](#ML)
-4. [Data-Science](#Data-Science)
+4. [Data Science](#Data-Science)
 5. [ETC](#ETC)
+
+## Common-Sense
+
+---
+
+[Go to Common Sense Reference](/en/common-sense/README.md)
 
 ## Web
 
