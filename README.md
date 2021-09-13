@@ -1,5 +1,9 @@
 # for Beginners at plan-cy
 
+```text
+Currently, only the Korean version is provided. 🇰🇷
+```
+
 [Go to Korean](/README-ko.md)
 
 ## Index
@@ -10,8 +14,9 @@
 1. [Web](#Web)
 2. [DevOps](#DevOps)
 3. [ML](#ML)
-4. [Data Science](#Data-Science)
-5. [ETC](#ETC)
+4. [Data-Science](#Data-Science)
+5. [Security](#Security)
+6. [ETC](#ETC)
 
 ## Common-Sense
 
@@ -42,6 +47,12 @@
 ---
 
 [Go to Data-Science Reference](/en/data-science/README.md)
+
+## Security
+
+---
+
+[Go to Security Reference](/en/security/README.md)
 
 ## ETC
 
